@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://kevinevans-polishing.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Dec 2024 17:05:18 +0800</lastBuildDate>
+    <atom:link href="https://kevinevans-polishing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://kevinevans-polishing.github.io/post/blog/</link>
+      <pubDate>Tue, 10 Dec 2024 17:05:18 +0800</pubDate>
+      <guid>https://kevinevans-polishing.github.io/post/blog/</guid>
+      <description>&lt;p&gt;This is my first article in my first blog;&lt;/p&gt;&#xA;&lt;p&gt;Actually, I have tried a lot of times just to have my own web site.&lt;/p&gt;&#xA;&lt;p&gt;Now I really did it with Ubuntu&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
